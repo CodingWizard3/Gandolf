@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <style>
+        table{
+        background-color:green;
+        width:1600px;
+        padding:5px;
+        text-align:center;
+        height: 50px;
+        }
+        a{
+        border:5px solid;
+        border-color:green;
+        color:white;
+        font-size:20px
+        
+        }
+        </style>
+        
+        </head>
+<body style="background-color:orange;">
+<table>
+    <tr>
+        <td>
+            <p>
+    <a href="HOME.html">home</a>
+    <a href="SERVICE.html">service</a>
+    <a href="Contact INFO.html">contact info</a>
+            </p>
+        </td>
+    </tr>
+</table>
+<h1>We give you Premium quality food and grills.</h1>
+<center><h2>Menu:</h2>
+<img src="https://i.pinimg.com/originals/6d/e0/a0/6de0a0f6db4cc00574a5aa2e0f945c6a.jpg"width="400px"></center>
+</body>
+</html>
